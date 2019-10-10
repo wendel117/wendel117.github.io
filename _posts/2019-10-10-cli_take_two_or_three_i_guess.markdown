@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI take two!(or three I guess)"
-date:       2019-10-10 20:10:07 +0000
+date:       2019-10-10 16:10:07 -0400
 permalink:  cli_take_two_or_three_i_guess
 ---
 
